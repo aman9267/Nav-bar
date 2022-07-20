@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+}
+header {
+  position: relative;
+  padding: 20px;
+  margin-left: 80px;
+}
+.btn {
+  color: gray;
+  margin-left: 40px;
+  font: 1em sans-serif;
+  text-decoration: none;
+}
+.btn_white {
+  margin-left: 30%;
+  padding: 10px 40px;
+  background-color: rgb(204, 210, 212);
+  color: blue;
+}
+.btn_Blue {
+  padding: 10px 40px;
+  margin-left: 10px;
+  background-color: blue;
+  color: white;
+}
